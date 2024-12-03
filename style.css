@@ -3,7 +3,7 @@ body {
 }
   .poster {
     border: 5px solid white;
-    width: 90%;
+    width: 100%;
   }
 
   h1 {
@@ -20,6 +20,5 @@ body {
     text-align: center;
     width: 50%;
     margin-left: 25%;
-    margin-top: 5%;
     font-family: "Libre Baskerville", serif ;
   }
