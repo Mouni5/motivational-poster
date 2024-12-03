@@ -4,6 +4,7 @@ body {
   .poster {
     border: 5px solid white;
     width: 100%;
+    top: 10px;
   }
 
   h1 {
