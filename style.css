@@ -8,7 +8,7 @@ body {
 
   h1 {
     color: gold;
-    font-size: 3rem;
+    font-size: 2rem;
     text-transform: uppercase;
   }
   p {
@@ -20,6 +20,5 @@ body {
     text-align: center;
     width: 50%;
     margin-left: 25%;
-    margin-top: 25%;
     font-family: "Libre Baskerville", serif ;
   }
